@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\bin\Debug\TimeStackerForms.exe.config
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\bin\Debug\TimeStackerForms.exe
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\bin\Debug\TimeStackerForms.pdb
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\obj\Debug\TimeStackerForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\obj\Debug\TimeStackerForms.Form1.resources
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\obj\Debug\TimeStackerForms.Properties.Resources.resources
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\obj\Debug\TimeStackerForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\obj\Debug\TimeStackerForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\obj\Debug\TimeStackerForms.exe
+C:\Users\User\source\repos\TimeStackerForms\TimeStackerForms\obj\Debug\TimeStackerForms.pdb
